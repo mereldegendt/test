@@ -3,3 +3,9 @@ Bug fixes
 //
 
 CODE
+De nieuwste feature toevoegen
+
+// 
+
+CODE
+
